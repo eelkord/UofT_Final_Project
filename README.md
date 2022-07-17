@@ -13,8 +13,6 @@ Objective of the model is to predict if the loan application can be approved bas
 Kaggle
 
 
-## Hypothesis
-
 ## Technology
 * Database Storage: Mongo DB
 * Python
