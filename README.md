@@ -1,4 +1,5 @@
 # UofT_Final_Project
+
 # LOAN APPROVAL PREDICTION USING MACHINE LEARNING MODELS
 
 ## Primary Objectives:
@@ -56,4 +57,8 @@ Below is a screenshot of the ERD
 
 
 
+
+=======
+
+Attached is the proposed ERD
 
