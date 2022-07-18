@@ -64,6 +64,5 @@ Below is a screenshot of the ERD
 
 =======
 
-Attached is the proposed ERD
 
 
