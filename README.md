@@ -20,7 +20,10 @@ We aim to automate the loan eligibility process (real-time) based on customer de
 - Credit History,
 - and others.
 
-## About the dataset:
+## Data source
+Kaggle
+
+### About the dataset:
 
 We have two CSV files which are labeled as train and test data. The train and test dataset would have the same columns except for the target column are “Loan Status”.
 
