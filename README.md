@@ -21,7 +21,8 @@ Please click here to go to notebook used to clean our dataset.
 
 # EDA and Tableau
 
-To perform our exploratory data analysis we had to explore each column and told a story with our dataset.
+To perform our exploratory data analysis we had to explore each column and told a story with our dataset. 
+Please click [here](https://github.com/eelkord/UofT_Final_Project/blob/fofomichelle/exploratory_analysis.ipynb) to go the code that was used to perform the analysis
 
 For instance we we did a bar chart on education and discovered that part of our applicants were graduates as opposed to the ones that were not graduate.
 ![image](https://user-images.githubusercontent.com/99924850/181996284-6d8b5428-07ae-4abf-a494-5fd71bcb86ce.png)
