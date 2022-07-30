@@ -15,9 +15,9 @@ Finally, the dashboard to visualize the findings and outcome will be using Table
 
 # Data cleaning:
 
-To perform our EDA we used a common notebook to clean our dataset. We sorted our raw dataset on AWS and read it as dataframe and performed multiple codes to clean our data 
+To perform our EDA we used a common notebook to clean our dataset. We stored our raw dataset on AWS and read it as dataframe and performed multiple codes to clean our data 
 
-Please click here to go to notebook used to clean our dataset.
+Please click [here](https://github.com/eelkord/UofT_Final_Project/blob/main/Clean%20data.ipynb) to go to notebook used to clean our dataset.
 
 # EDA and Tableau
 
