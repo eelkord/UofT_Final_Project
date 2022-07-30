@@ -34,7 +34,7 @@ To better visualize our dataset and tell a better story we used Tableau and crea
 
 # Machine Learning
 
-For our machine learning parts we used 3 models : LogisticRegression,Decision Tree Model, Random Forest and Gradient Boosting
+For our machine learning parts we used 3 models : LogisticRegression,Decision Tree Model, Random Forest and Gradient Boosting. Please click [here](https://github.com/eelkord/UofT_Final_Project/blob/karishmasnh/Refactored%20and%20featured%20code%20-v3.ipynb) for more details about the codes used for each model 
 Below are the results of our models
 - Logistic Regression
 ![image](https://user-images.githubusercontent.com/99924850/181996515-a647b55d-5d67-4b39-97f7-933e759d4a12.png)
