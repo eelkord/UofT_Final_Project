@@ -8,53 +8,50 @@
 
 ## Primary Objectives:
 
-The primary objective is to predict if the loan status of the applicant has been approved or not. For this project, we take on the role of financial analyst for a finance company to build our model to predict the outcome of the loan status of customers using different data values. 
- For this project, we will use the classification model in which we need to classify whether the loan will be approved or not. classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
- 
- ## Business problem:
- 
- We work for a finance company that deals in all kinds of home loans. Usually, an applicant first applies for a home loan and after that, the company validates the customer's eligibility for the loan.
-We aim to automate the loan eligibility process (real-time) based on customer details provided while filling out online application forms. These details are:
-
- - Gender, 
-- Marital Status,
-- Education, 
-- number of Dependents, I
-- Income, 
-- Loan Amount, 
-- Credit History,
-- and others.
-
-## Data source
-Kaggle
-
-### About the dataset:
-
-We have two CSV files which are labeled as train and test data. The train and test dataset would have the same columns except for the target column are “Loan Status”.
-
-![image](https://user-images.githubusercontent.com/99924850/179431647-28e8d08d-f2bf-43a8-98dd-e5714eb08620.png)
-
-Loan status can have two values: Yes or NO.
-
-**Yes**: if the loan is approved
-
-**NO**: if the loan is not approved
-
-We will use the training dataset to train our model and try to predict our target column which is “Loan Status” on the test dataset.
-We will use the training set to build our model and the test dataset to validate it. Both files are stored as CSV files.
-
-## TECHNOLOGY
- We will use Pandas and Python to clean the data.
-Then we will use MongoDB and PostgreSQL for database storage.
-Machine Learning using linear regression will be used to predict loan application status.
+The primary objective is to predict if the loan status of the applicant has been approved or not. For this project, we take on the role of financial analyst for a finance company to build our model to predict the outcome of the loan status of customers using different data values. For this project, we will use the classification model in which we need to classify whether the loan will be approved or not. classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
+We will use Pandas and Python to clean the data. Then we will use RDS  for database storage. 
+Machine Learning using logistic regression, random tree and decision tree will be used to predict loan application status
 Finally, the dashboard to visualize the findings and outcome will be using Tableau.
 
-Below is a screenshot of the ERD
+# Data cleaning:
 
-![image](https://user-images.githubusercontent.com/99924850/179431729-97e818f1-4e1b-4726-86ba-2dcf37d18c76.png)
+To perform our EDA we used a common notebook to clean our dataset. We sorted our raw dataset on AWS and read it as dataframe and performed multiple codes to clean our data 
+
+Please click here to go to notebook used to clean our dataset.
+
+# EDA and Tableau
+
+To perform our exploratory data analysis we had to explore each column and told a story with our dataset.
+
+For instance we we did a bar chart on education and discovered that part of our applicants were graduates as opposed to the ones that were not graduate.
+![image](https://user-images.githubusercontent.com/99924850/181996284-6d8b5428-07ae-4abf-a494-5fd71bcb86ce.png)
+We then established a relationship between our different features with the target output
+Finally we performed a correlation between all our features to help while doing our machine learning to identify which features will be more important
+![image](https://user-images.githubusercontent.com/99924850/181996216-86000c0a-77cc-44ca-b152-5c6c7f103991.png)
+
+To better visualize our dataset and tell a better story we used Tableau and created almost the same relations if not better ones. Please click here to visualize our findings
+
+# Machine Learning
+
+For our machine learning parts we used 3 models : LogisticRegression,Decision Tree Model, Random Forest and Gradient Boosting
+Below are the results of our models
+- Logistic Regression
+![image](https://user-images.githubusercontent.com/99924850/181996515-a647b55d-5d67-4b39-97f7-933e759d4a12.png)
+
+- Decision Tree
+
+![image](https://user-images.githubusercontent.com/99924850/181996543-52ddfdff-207c-43f9-b2b3-23951c42c064.png)
+
+- Random Tree
+
+![image](https://user-images.githubusercontent.com/99924850/181996572-34812e95-f1ae-4454-a4ef-037ee17fcbbc.png)
+
+- Gradient Boost
 
 
+![image](https://user-images.githubusercontent.com/99924850/181996587-1a177a2b-19fb-4aa4-a657-a5acb29530be.png)
 
+As you can see the machine learning which had a higher accuracy score is the logistic regression Model
 
 
 
