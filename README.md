@@ -36,7 +36,7 @@ We then established a relationship between our different features with the targe
 Finally we performed a correlation between all our features to help while doing our machine learning to identify which features will be more important
 ![image](https://user-images.githubusercontent.com/99924850/181996216-86000c0a-77cc-44ca-b152-5c6c7f103991.png)
 
-To better visualize our dataset and tell a better story we used Tableau and created almost the same relations if not better ones. Please click here to visualize our findings
+To better visualize our dataset and tell a better a story with our dataset we used Tableau and created almost the same relations if not better ones. Please click here for details about the story created in Tableau.
 
 ## Machine Learning
 
