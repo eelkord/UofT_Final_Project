@@ -8,10 +8,20 @@
 
 ## Primary Objectives:
 
+Primary Objectives:
 The primary objective is to predict if the loan status of the applicant has been approved or not. For this project, we take on the role of financial analyst for a finance company to build our model to predict the outcome of the loan status of customers using different data values. For this project, we will use the classification model in which we need to classify whether the loan will be approved or not. classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
-We will use Pandas and Python to clean the data. Then we will use RDS  for database storage. 
-Machine Learning using logistic regression, random tree and decision tree will be used to predict loan application status
-Finally, the dashboard to visualize the findings and outcome will be using Tableau.
+
+Business problem:
+We work for a finance company that deals in all kinds of home loans. Usually, an applicant first applies for a home loan and after that, the company validates the customer's eligibility for the loan. We aim to automate the loan eligibility process (real-time) based on customer details provided while filling out online application forms. These details are:
+
+Gender,
+Marital Status,
+Education,
+number of Dependents, I
+Income,
+Loan Amount,
+Credit History,
+and others.
 
 ## Data source
 
