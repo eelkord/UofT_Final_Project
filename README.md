@@ -58,7 +58,8 @@ Below are the results of our models
 
 ![image](https://user-images.githubusercontent.com/99924850/181996587-1a177a2b-19fb-4aa4-a657-a5acb29530be.png)
 
-As you can see the machine learning model which had a higher accuracy score is the logistic regression Model so we will be using the later to run our prediction analysis
+As you can see the machine learning model which had a higher accuracy score is the logistic regression Model so we will be using the later to run our prediction analysis. 
+Please do click [here](https://github.com/eelkord/UofT_Final_Project/blob/karishmasnh/Description%20of%20ML%20model.docx) for more information on how the machine learning was processed.
 
 
 
