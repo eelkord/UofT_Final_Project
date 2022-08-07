@@ -92,7 +92,7 @@ Please do click [here](https://github.com/eelkord/UofT_Final_Project/blob/karish
 ## Presentation
 
 After conducting our analysis we have then summarized our analysis into a google side presentation which will be used to present our analysis to different stakeholders of the financial company that requested the analysis.
-Please click [here](https://docs.google.com/presentation/d/1bvOXDqs_5ezLtgVh4gu2DeZsfNF7g01j4ui4nQoCLyA/edit#slide=id.g1428059bb69_2_64)) to access the presentation.
+Please click [here](https://docs.google.com/presentation/d/1bvOXDqs_5ezLtgVh4gu2DeZsfNF7g01j4ui4nQoCLyA/edit#slide=id.g1428059bb69_2_64) to access the presentation.
 
 
 
