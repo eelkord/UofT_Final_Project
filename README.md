@@ -5,6 +5,7 @@
 
 =======
 # LOAN APPROVAL PREDICTION USING MACHINE LEARNING MODELS
+# Tableau link https://public.tableau.com/app/profile/reno4875/viz/LoanApprovalWorkbook/Story1 
 
 ## Primary Objectives:
 
