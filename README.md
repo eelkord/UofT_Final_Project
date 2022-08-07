@@ -43,10 +43,10 @@ Please click [here](https://github.com/eelkord/UofT_Final_Project/blob/fofomiche
 For instance we we did a bar chart on education and discovered that part of our applicants were graduates as opposed to the ones that were not graduate.
 ![image](https://user-images.githubusercontent.com/99924850/181996284-6d8b5428-07ae-4abf-a494-5fd71bcb86ce.png)
 We then established a relationship between our different features with the target output
-Finally we performed a correlation between all our features to help while doing our machine learning part of the analysis identify which features will be more important
-![image](https://user-images.githubusercontent.com/99924850/183311903-2f0944dd-c366-46f1-9ea7-6e577bb40aa7.png)
 
-To better visualize our dataset and tell a better a story with our dataset we used Tableau and created almost the same relations if not better ones. Please click [here](https://public.tableau.com/app/profile/reno4875/viz/LoanApprovalWorkbook/Story1) for details about the story created in Tableau.
+To better visualize our dataset and tell a better a story with our dataset we used Tableau and created almost the same relations if not better ones.
+We then created different dashboards and stories for a better visualization and to learn more about our dataset. 
+Please click [here](https://public.tableau.com/app/profile/reno4875/viz/LoanApprovalWorkbook/Story1) for details about the story created in Tableau.
 
 ## Machine Learning
 
