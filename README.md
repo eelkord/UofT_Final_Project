@@ -46,6 +46,10 @@ We then established a relationship between our different features with the targe
 
 To better visualize our dataset and tell a better a story with our dataset we used Tableau and created almost the same relations if not better ones.
 We then created different dashboards and stories for a better visualization and to learn more about our dataset. 
+Below is a screenshot of one of the dashboard that was created within Tableau.
+
+![image](https://user-images.githubusercontent.com/99924850/183313769-befbe8d5-118c-42b8-9a31-803407ff41ec.png)
+
 Please click [here](https://public.tableau.com/app/profile/reno4875/viz/LoanApprovalWorkbook/Story1) for details about the story created in Tableau.
 
 ## Machine Learning
