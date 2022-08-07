@@ -50,7 +50,7 @@ Below is a screenshot of one of the dashboard that was created within Tableau.
 
 ![image](https://user-images.githubusercontent.com/99924850/183313769-befbe8d5-118c-42b8-9a31-803407ff41ec.png)
 
-Please click [here](https://public.tableau.com/app/profile/reno4875/viz/LoanApprovalWorkbook/Story1) for details about the story created in Tableau.
+This [link](https://public.tableau.com/app/profile/reno4875/viz/LoanApprovalWorkbook/Story1) will give you more details about the story created within Tableau.
 
 ## Machine Learning
 
